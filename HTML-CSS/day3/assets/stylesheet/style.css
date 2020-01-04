@@ -1,0 +1,24 @@
+.wrapper{
+    width: 100%;
+    margin: 0 auto;
+    height: 100vh;
+}
+.header{
+    text size: 20px;
+    font-size: larger;
+    color:black;
+}
+.image{
+    height: 30%;
+    width: 40%; 
+}
+.picture{
+    height:200px;
+    width:280px;
+}
+.em{
+    background-color: chartreuse;
+}
+.pp{
+    background-color: chartreuse;
+}
