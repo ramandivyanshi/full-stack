@@ -1,0 +1,69 @@
+.wrapper{
+    width:100%;
+    height:100%;
+    padding-left:100px;
+    padding-right: 100px;
+    color:white;
+    text-align: start;
+    margin: 0 auto
+}
+.row1{
+padding:10px;
+}
+.one{
+    padding:10px;
+    background-color: tomato;
+    width:40%;
+    height:200px;
+}
+.two{
+    padding:10px;
+    background-color: yellowgreen;
+    width:20%;
+    height:200px;
+}
+.three{ padding:10px;
+    background-color: turquoise;
+    width:20%;
+    height:200px;
+}
+.row2{
+    padding:10px;
+}
+.four{ padding:10px;
+    background-color: green;
+    width:20%;
+    height:200px;
+}
+.five{ padding:10px;
+    width:40%;
+    height:200px;
+    background-color: hotpink;
+}
+.six{ padding:10px;
+    width:20%;
+    height:200px;
+    background-color: indigo;
+}
+.row3{
+    padding: 10px;
+}
+.seven{ padding:10px;
+    width:20%;
+    height:200px;
+    background-color: yellow;
+}
+.eight{
+    width:20%;
+    padding:10px;
+    height:200px;
+    background-color: orangered;
+}
+.nine{
+    width:40%;
+    padding:10px;
+    height:200px;
+    background-color:mediumvioletred;
+}
+
+
